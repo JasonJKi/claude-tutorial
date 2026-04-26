@@ -1,0 +1,5 @@
+Claude Code Tutorial Notes
+
+- Claude Code integrates natively with git
+- You can use natural language to run git commands
+- Claude understands your project context automatically
