@@ -1,0 +1,10 @@
+{
+  "slug": "yaml-prettifier",
+  "title": "YAML Prettifier",
+  "target_query": "yaml beautifier online",
+  "description": "Format YAML with consistent indentation. Hard paywall after 2 uses.",
+  "intrinsic_quality": 0.15,
+  "paywall_aggressiveness": 0.9,
+  "free_tier_uses_per_day": 2,
+  "price_monthly": 12.0
+}

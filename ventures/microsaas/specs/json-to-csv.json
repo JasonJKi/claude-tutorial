@@ -1,0 +1,10 @@
+{
+  "slug": "json-to-csv",
+  "title": "JSON to CSV Converter",
+  "target_query": "convert json to csv online",
+  "description": "Paste JSON, get CSV instantly. Handles nested arrays and objects.",
+  "intrinsic_quality": 0.85,
+  "paywall_aggressiveness": 0.4,
+  "free_tier_uses_per_day": 5,
+  "price_monthly": 9.0
+}
